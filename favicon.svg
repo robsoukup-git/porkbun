@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#101c33"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#b3122f" stroke-width="3"/>
+  <text x="32" y="41" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">RS</text>
+  <text x="32" y="53" font-family="system-ui, sans-serif" font-size="8" font-weight="700" fill="#e5484f" text-anchor="middle" letter-spacing="2">CTS-I</text>
+</svg>
