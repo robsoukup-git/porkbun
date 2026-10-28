@@ -1048,5 +1048,20 @@ const CREDENTIALS = [
   docs: [
     { file: "Driving-Course_Completion_Certificate.jpg", label: "Certificate (image)", kind: "certificate", alt: "FleetDefense driver safety certificate for Robert Soukup, September 18, 2025" }
   ]
+},
+{
+  id: "avispl-project-engineer-1",
+  title: "AVI-SPL Project Engineer 1 \u2014 Career Progression Learning Plan",
+  issuer: "AVI-SPL",
+  category: "Career Development",
+  type: "Employer Training",
+  date: "2026-10-22",
+  validThrough: null,
+  description: "AVI-SPL certificate of completion for the Project Engineer 1 Career Progression Learning Plan, issued October 22, 2026 by the AVI-SPL L&D Department. It certifies completion of the training requirements for the AVI-SPL Project Engineer 1 position.",
+  tags: ["AVI-SPL", "Project Engineer", "career progression", "training"],
+  rus: null,
+  docs: [
+    { file: "RSoukup_AVI-SPL_Project_Engineer_1.pdf", label: "Certificate (PDF)", kind: "certificate", alt: "AVI-SPL Project Engineer 1 Career Progression Learning Plan certificate of completion for Rob Soukup, issued October 22, 2026" }
+  ]
 }
 ];
