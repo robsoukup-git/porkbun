@@ -1063,5 +1063,20 @@ const CREDENTIALS = [
   docs: [
     { file: "RSoukup_AVI-SPL_Project_Engineer_1.pdf", label: "Certificate (PDF)", kind: "certificate", alt: "AVI-SPL Project Engineer 1 Career Progression Learning Plan certificate of completion for Rob Soukup, issued October 22, 2026" }
   ]
+},
+{
+  id: "avixa-avoip-foundations",
+  title: "AVIXA: AVoIP Foundations",
+  issuer: "AVIXA",
+  category: "AV over IP & Networking",
+  type: "Course Completion",
+  date: "2026-11-06",
+  validThrough: null,
+  description: "AVIXA course certificate for AVoIP Foundations, successfully completed November 6, 2026. Signed by David P. Labuskes, Executive Director and CEO of AVIXA, the Audiovisual and Integrated Experience Association.",
+  tags: ["AVoIP", "AVIXA", "AV over IP", "networking", "foundations"],
+  rus: null,
+  docs: [
+    { file: "RSoukup_-_AVIXA_AVOIP_Foundations_110626.pdf", label: "Certificate (PDF)", kind: "certificate", alt: "AVIXA course certificate for AVoIP Foundations, Robert Soukup, November 6, 2026" }
+  ]
 }
 ];
