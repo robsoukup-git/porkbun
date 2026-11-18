@@ -1078,5 +1078,20 @@ const CREDENTIALS = [
   docs: [
     { file: "RSoukup_-_AVIXA_AVOIP_Foundations_110626.pdf", label: "Certificate (PDF)", kind: "certificate", alt: "AVIXA course certificate for AVoIP Foundations, Robert Soukup, November 6, 2026" }
   ]
+},
+{
+  id: "netgear-av-l1",
+  title: "NETGEAR AV Certification Level 1",
+  issuer: "NETGEAR",
+  category: "AV over IP & Networking",
+  type: "Certification",
+  date: "2026-11-18",
+  validThrough: null,
+  description: "NETGEAR certificate of completion for the NETGEAR AV Certification Level 1 course, completed November 18, 2026. Rob Soukup passed the course requirements and is now NETGEAR certified. Signed by Augusto P. Marcondes, Global Training Manager.",
+  tags: ["NETGEAR", "AV certification", "AV over IP", "networking", "Level 1"],
+  rus: null,
+  docs: [
+    { file: "RSoukup_-_Netgear_L1_111826.pdf", label: "Certificate (PDF)", kind: "certificate", alt: "NETGEAR AV Certification Level 1 certificate of completion for Rob Soukup, November 18, 2026" }
+  ]
 }
 ];
